@@ -23,9 +23,8 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurumin001&bg_color=000000&color=FF8C00&line=FF8C00&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-&nbsp;
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurumin001&bg_color=000000&color=FF8C00&line=FF8C00&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kurumin001/kurumin001/output/github-contribution-grid-snake-dark.svg">
