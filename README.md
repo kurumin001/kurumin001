@@ -18,7 +18,7 @@
  </div>
 &nbsp;
 
-![Snake animation](https://github.com/kurumi001/kurumi001/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kurumin001/kurumin001/blob/output/github-contribution-grid-snake.svg)
 
 
 ## My Skills
