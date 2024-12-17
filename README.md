@@ -17,13 +17,11 @@
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurumin001&show_icons=true&theme=dark&layout=compact" />
  </div>
 &nbsp;
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kurumin001/kurumin001/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kurumin001/kurumin001/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kurumin001/kurumin001/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 ## My Skills
 #### Main Stack:
@@ -32,17 +30,15 @@
 #[![My Skills](https://skillicons.dev/icons?i=powershell,bash,windows,linux)](https://skillicons.dev)
 
 
-####
+## Clouds:
 
+[![Clouds](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
+## Vendors:
+[![Vendors](https://skillicons.dev/icons?i=grafana,elasticsearch)](https://skillicons.dev)
 
-          
-
-
-
-
-
-
+## Workstation Tools:
+[![Tools](https://skillicons.dev/icons?i=discord,vscode,debian,kali,windows)](https://skillicons.dev)
 
 
 
@@ -51,7 +47,7 @@
 
 <div> 
 
-<a href="https://www.linkedin.com/in/thiagomc/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/thiagomc/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
  
 
