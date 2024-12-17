@@ -16,17 +16,17 @@
 &nbsp;
 &nbsp;
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kurumin001&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&bg_color=0d1117" alt="Thiago github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurumin001&layout=compact&hide_border=true&title_color=FF8C00&text_color=FF8C00&bg_color=0d1117" />
 </div>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=kurumin001&theme=kacho_ga&show_icons=true" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurumin001&show_icons=true&theme=kacho_ga&layout=compact" />
- </div>
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurumin001&bg_color=000000&color=FF8C00&line=FF8C00&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 &nbsp;
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kurumin001/kurumin001/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: kacho_ga)" srcset="https://raw.githubusercontent.com/kurumin001/kurumin001/output/github-contribution-grid-snake-dark.svg">
