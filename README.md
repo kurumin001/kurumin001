@@ -1,4 +1,10 @@
-
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/user-attachments/assets/d14b0b3e-98b8-4166-a2fd-4561796ba971" />
+<br>
+<p align="right">
+  <a href="https://www.linkedin.com/in/thiagomc/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 &nbsp;&nbsp;&nbsp;
 &nbsp;
@@ -13,13 +19,13 @@
 </div>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kurumin001&theme=dark&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurumin001&show_icons=true&theme=dark&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=kurumin001&theme=kacho_ga&show_icons=true" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurumin001&show_icons=true&theme=kacho_ga&layout=compact" />
  </div>
 &nbsp;
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kurumin001/kurumin001/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kurumin001/kurumin001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: kacho_ga)" srcset="https://raw.githubusercontent.com/kurumin001/kurumin001/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kurumin001/kurumin001/output/github-contribution-grid-snake.svg">
 </picture>
 
@@ -43,11 +49,7 @@
 
 
 
-## Contacts:
-
-<div> 
-
-<a href="https://www.linkedin.com/in/thiagomc/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+## 
 
  
 
