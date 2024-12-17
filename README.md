@@ -50,14 +50,13 @@
 [![Tools](https://skillicons.dev/icons?i=discord,vscode,debian,kali,windows)](https://skillicons.dev)
 
 
-
-
 ## 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kurumin001}/count.svg" /></p> 
+<br></div>
 
- 
-
-  
-  
+##  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF8C00&fontAlignY=58&fontAlign=58&animation=twinkling&reversal=false&section=footer"/>
 
 
