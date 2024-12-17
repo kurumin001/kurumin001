@@ -22,6 +22,10 @@
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=kurumin001&theme=kacho_ga&show_icons=true" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurumin001&show_icons=true&theme=kacho_ga&layout=compact" />
  </div>
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurumin001&bg_color=000000&color=FF8C00&line=FF8C00&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 &nbsp;
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kurumin001/kurumin001/output/github-contribution-grid-snake-dark.svg">
